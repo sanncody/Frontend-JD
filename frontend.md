@@ -1,7 +1,3 @@
-Here's your internship job description converted into clean and professional **Markdown** syntax:
-
----
-
 # **Frontend Development Intern (Summer Internship – Remote)**
 
 ---
